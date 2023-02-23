@@ -1,12 +1,3 @@
-/**
- * CSC 345-01 Assignment #1 (version 1.1)
- * 
- * On my honor, Josiah Nathaniel Becker, this assignment is my own work.  
- * I, Josiah Nathaniel Becker, will follow the instructor's rules and processes 
- * related to academic integrity as directed in the course syllabus.
- *
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
